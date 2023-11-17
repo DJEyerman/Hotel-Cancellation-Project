@@ -1,6 +1,6 @@
-# Data Science Project Overview: Reducing Hotel Cancellation Rates
+# Reducing Hotel Cancellation Rates
 
-In this data science project, the goal was to address the challenge of high hotel cancellation rates by developing predictive models using logistic regression and decision trees. The chosen model for implementation was logistic regression due to its interpretability and effectiveness in binary classification tasks.
+The goal of the project was to address the challenge of high hotel cancellation rates by developing predictive models using logistic regression and decision trees. The chosen model for implementation was logistic regression due to its interpretability and effectiveness in binary classification tasks.
 
 ## Objective:
 The primary objective was to create models that could accurately predict the likelihood of a hotel booking being canceled. By understanding the factors influencing cancellations, hotels could proactively manage reservations and optimize resource allocation.
