@@ -23,6 +23,8 @@ To improve model performance, a decision tree model was implemented. Decision tr
 ## Model Evaluation and Validation:
 Both the logistic regression and decision tree models were rigorously evaluated using metrics such as accuracy, precision, recall, and the area under the Receiver Operating Characteristic (ROC) curve. The models were validated on a separate dataset to ensure generalizability.
 
+![Hotel_Cancellation_ROC_Curve](https://github.com/DJEyerman/Hotel-Cancellation-Project/assets/38670302/690e7958-fabf-4df7-a4b5-ab03faf5433a)
+
 ## Business Impact:
 The logistic regression model successfully identified influential factors in hotel cancellations, offering valuable strategic insights. These insights empowered hotel management to implement targeted interventions, optimize pricing strategies, and enhance the overall customer booking experience.
 
