@@ -9,7 +9,9 @@ The primary objective was to create models that could accurately predict the lik
 A comprehensive dataset was collected, encompassing a range of features such as booking source, lead time, room type, and historical cancellation patterns. This dataset provided the necessary information to train and validate the predictive models.
 
 ## Exploratory Data Analysis (EDA):
-Prior to model development, an exploratory data analysis was conducted to gain insights into the distribution of features, identify potential correlations, and understand patterns within the dataset. EDA played a crucial role in guiding feature selection and preprocessing.
+Prior to model development, an exploratory data analysis was conducted to gain insights into the distribution of features, identify potential correlations, and understand patterns within the dataset. EDA played a crucial role in guiding feature selection and preprocessing and it showed that most cancellations happened to reservations booked far in advance.
+
+![Hotel_Cancellations](https://github.com/DJEyerman/Hotel-Cancellation-Project/assets/38670302/45c6e221-90aa-43ee-924b-770c48b9b55b)
 
 ## Feature Engineering:
 Based on insights from EDA, relevant features were selected and engineered to enhance the predictive power of the models. This step involved transforming and creating variables that better captured the complexities of the hotel booking process.
