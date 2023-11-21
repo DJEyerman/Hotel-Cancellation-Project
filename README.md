@@ -19,6 +19,8 @@ Based on insights from EDA, relevant features were selected and engineered to en
 ## Logistic Regression Model:
 A logistic regression model was chosen for its simplicity and interpretability. This model was trained on the dataset to predict the probability of a booking resulting in a cancellation. Coefficients from the logistic regression aided in understanding the impact of each feature on the cancellation likelihood.
 
+![Hotel_Cancellations_Results](https://github.com/DJEyerman/Hotel-Cancellation-Project/assets/38670302/c104a612-0d88-474b-9fa0-67ccb5383d92)
+
 ## Decision Trees for Ensemble Learning:
 To improve model performance, a decision tree model was implemented. Decision trees excel in capturing nonlinear relationships and interactions among features. The decision tree model was incorporated into an ensemble learning framework, further enhancing the overall predictive accuracy.
 
