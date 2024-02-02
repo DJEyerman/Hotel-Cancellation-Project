@@ -61,8 +61,10 @@ EDA focused on answering six (6) leading questions:
 
 ## Data Preprocessing: 
     • The data did not include any null values. 
-    • While the data did include some outliers, they were not treated as any treatment would fundamentally change the data and therefore the results. 
-    • Multicollinearity was tested and the VIF score for the data was under 5 indicating there is no Multicollinearity in the data.  
+    • While the data did include some outliers, they were not treated as any treatment would fundamentally 
+    change the data and therefore the results. 
+    • Multicollinearity was tested and the VIF score for the data was under 5 indicating there is no 
+    Multicollinearity in the data.  
     • Six (6) columns with a p-value greater and 0.05 were dropped from the data set. 
 
 
